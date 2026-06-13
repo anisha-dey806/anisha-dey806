@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/anisha-dey806">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=C792EA&center=true&vCenter=true&width=800&height=100&lines=Anisha+Dey" alt="Anisha Dey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=C792EA&center=true&vCenter=true&width=800&height=100&lines=Anisha+Dey" alt="Anisha Dey" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Digital+Systems+%26+RTL+Design+Engineer;Electrical+Engineering+Student+%40+NIT+Rourkela;Hardware+Developer+%26+Learner+%F0%9F%94%8C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Digital+Systems+%26+RTL+Design+Engineer;Electrical+Engineering+Student+%40+NIT+Rourkela;Hardware+Developer+%26+Learner" alt="Typing SVG" />
 
 <br/>
 
