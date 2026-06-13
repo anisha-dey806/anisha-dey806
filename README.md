@@ -1,22 +1,29 @@
 <div align="center">
 
-<a href="https://github.com/anisha-dey806">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=C792EA&center=true&vCenter=true&width=800&height=100&lines=Anisha+Dey" alt="Anisha Dey" />
-</a>
+<!-- WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anisha%20Dey&fontSize=65&fontColor=fff&fontAlignY=40&desc=⚡%20Digital%20Systems%20Engineer%20•%20RTL%20Design%20•%20VLSI%20•%20NIT%20Rourkela&descSize=16&descAlignY=62&descColor=a9b1d6&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Digital+Systems+%26+RTL+Design+Engineer;Electrical+Engineering+Student+%40+NIT+Rourkela;Hardware+Developer+%26+Learner" alt="Typing SVG" />
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=750&height=50&lines=RTL+Design+%7C+FPGA+%7C+VLSI+Systems;Verilog+%7C+SystemVerilog+%7C+UART+%7C+SPI+%7C+AXI4;Logic+Verification+%26+Testbench+Design;Building+Synthesizable+Digital+Hardware" alt="Typing SVG" />
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20LOCATION-ROURKELA,%20INDIA-7aa2f7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20FOCUS-VLSI%20%26%20RTL%20DESIGN-c792ea?style=for-the-badge" />
-</p>
+<!-- STATUS BADGES -->
+<a href="https://github.com/anisha-dey806">
+  <img src="https://img.shields.io/badge/🟢%20STATUS-OPEN%20TO%20COLLABORATE-00d26a?style=for-the-badge" />
+</a>
+<img src="https://img.shields.io/badge/📍-JAMSHEDPUR,%20INDIA-7aa2f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯-VLSI%20%26%20RTL%20DESIGN-c792ea?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓-NIT%20ROURKELA-ff9e64?style=for-the-badge" />
 
+<br/><br/>
+
+<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
+
+---
 
 ## `whoami`
 
@@ -26,16 +33,16 @@ class DigitalSystemsEngineer:
         self.name        = "Anisha Dey"
         self.institution = "National Institute of Technology, Rourkela"
         self.degree      = "B.Tech in Electrical Engineering"
-        self.cgpa        = 6.58
         self.domain      = "RTL Design, Logic Verification & VLSI Systems"
         self.languages   = ["Verilog", "SystemVerilog", "C", "Python"]
-        self.tools       = ["Xilinx Vivado", "Vitis", "GTKWave", "MATLAB/Simulink", "LTspice"]
+        self.tools       = ["Xilinx Vivado", "Vitis", "GTKWave", "MATLAB", "LTspice"]
         self.protocols   = ["UART", "SPI", "I2C", "AXI4-Lite", "AXI4", "FIFO"]
-        self.interests   = ["CMOS Design", "Embedded Systems", "Digital Electronics", "VLSI"]
+        self.coursework  = ["Digital Electronics", "Analog Electronics", "CMOS Design", "VLSI Design"]
         self.status      = "Designing synthesizable hardware & verifying digital systems ⚡"
+        self.fun_fact    = "I analyze waveforms in GTKWave to find equilibrium 🔌"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something in silicon 🔌")
+        print("Thanks for visiting! Let's build something in silicon 🚀")
 
 me = DigitalSystemsEngineer()
 me.say_hi()
